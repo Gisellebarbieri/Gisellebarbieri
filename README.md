@@ -42,7 +42,7 @@ A digital product designed around the real workflow of musicians and teams, brin
 |  |  |
 | --- | --- |
 | **Product Builder**<br>I turn real problems into clear product decisions, from discovery and prioritization to execution. | **Business Strategy**<br>I combine market research, customer evidence and data to validate opportunities and guide business decisions.. |
-| **Product Intelligence**<br>I find opportunities others might overlook, adding intelligent layers to seemingly simple products through creative uses of data, Al and technology. | **Design & Brand**<br>Design & Brand<br>I use creativity to build distinctive brand worlds - shaping identity, visual language and experience around each product. |
+| **Product Intelligence**<br>I find opportunities others might overlook, adding intelligent layers to seemingly simple products through creative uses of data, Al and technology. | **Design & Brand**<br>I use creativity to build distinctive brand worlds - shaping identity, visual language and experience around each product. |
 
 ## Building With
 
